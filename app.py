@@ -1,5 +1,5 @@
 import streamlit as st
-st.se_page_config(page_title='cats')
+st.se_page_config(page_title='Cats')
 st.header("types of cats")
 col1,col2=st.columns(2)
 with col1:
